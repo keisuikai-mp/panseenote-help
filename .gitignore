@@ -2,6 +2,7 @@
 *.xlsm
 *.md
 *.txt
+!robots.txt
 *.bas
 
 # 保存ファイル

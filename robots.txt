@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://keisuikai-mp.github.io/panseenote-help/sitemap.xml
